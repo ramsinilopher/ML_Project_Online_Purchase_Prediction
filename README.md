@@ -12,21 +12,21 @@ Source: UCI Machine Learning Repository
 
 Features:
 
-#1. Administrative & Informational page visits
+1. Administrative & Informational page visits
 
-# 2. Product-related page visits
+2. Product-related page visits
 
-# 3. Page durations
+3. Page durations
 
-# 4. Bounce rate & Exit rate
+4. Bounce rate & Exit rate
 
-# 5. Special days & Weekend indicators
+5. Special days & Weekend indicators
 
-# 6. Traffic type & Visitor type
+6. Traffic type & Visitor type
 
-# 7. Region & Operating System
+7. Region & Operating System
 
-# 8. Revenue (Target variable: Yes/No for purchase intention)
+8. Revenue (Target variable: Yes/No for purchase intention)
 
 ## Project Workflow
 
@@ -56,17 +56,17 @@ Features:
 
 # Algorithms Used:
 
-# 1. Logistic Regression
+1. Logistic Regression
 
-# 2.   Decision Tree
+2.   Decision Tree
 
-# 3. Random Forest
+3. Random Forest
 
-# 4. Support Vector Machine (SVM)
+4. Support Vector Machine (SVM)
 
-# 5. Gradient Boosting
+5. Gradient Boosting
 
-# 6. XGBoost
+6. XGBoost
 
 
 
