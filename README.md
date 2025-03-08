@@ -79,17 +79,17 @@ Accuracy, Precision, Recall, F1-score
 
 GridSearchCV for optimization
 
-Model Deployment
+# Model Deployment
 
 Saving the trained model using joblib
 
 
-Results
+# Results
 
 Best-performing model: [XGBoost]
 
 Accuracy achieved: [89.10]%
 
-Key insights from the data:
+# Key insights from the data:
 
 This project demonstrates how to build a predictive model for online shopper behavior using machine learning techniques. The insights gained from this analysis can help e-commerce businesses enhance their marketing strategies and improve user engagement.
