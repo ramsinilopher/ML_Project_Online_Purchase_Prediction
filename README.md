@@ -12,7 +12,7 @@ Source: UCI Machine Learning Repository
 
 Features:
 
-# 1. Administrative & Informational page visits
+#1. Administrative & Informational page visits
 
 # 2. Product-related page visits
 
